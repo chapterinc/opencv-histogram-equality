@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - OpenCV2 (4.1.2)
+  - opencv_histogram_equality (0.0.1):
+    - Flutter
+    - OpenCV2 (= 4.1.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - opencv_histogram_equality (from `.symlinks/plugins/opencv_histogram_equality/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OpenCV2
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  opencv_histogram_equality:
+    :path: ".symlinks/plugins/opencv_histogram_equality/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  OpenCV2: 3ac0512dabaddda936f112507f9095697d392551
+  opencv_histogram_equality: e964822dd080ff4c5e99524ccf9cfa8a01eb2420
+
+PODFILE CHECKSUM: d2d2b0c04ee92b52d7f7e7936d8e1a786b030f0b
+
+COCOAPODS: 1.8.4

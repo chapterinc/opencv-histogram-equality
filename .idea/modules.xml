@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/opencv_histogram_equality.iml" filepath="$PROJECT_DIR$/opencv_histogram_equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/opencv_histogram_equality_android.iml" filepath="$PROJECT_DIR$/android/opencv_histogram_equality_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/opencv_histogram_equality_example_android.iml" filepath="$PROJECT_DIR$/example/android/opencv_histogram_equality_example_android.iml" />
+    </modules>
+  </component>
+</project>
