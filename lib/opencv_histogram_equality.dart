@@ -17,6 +17,6 @@ class OpencvHistogramEquality {
       throw Exception("create object finished with exception ${map["error"]}");
     }
 
-    return values["similarity"];
+    return map["results"]["similarity"];
   }
 }
